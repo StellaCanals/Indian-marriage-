@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Indie+Flower&family=Pacifico&display=swap');
+
+body{
+    background-color: #FFFDA2;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 0rem;
+}
+
+nav{
+    background-color: #FF0000;
+    color: white;
+    padding: 4rem;
+}
+
+nav h1{
+    margin-top: 0;
+    font-size: 3rem;
+    font-family: 'Pacifico', cursive;
+}
+
+nav img:hover{
+    border: 2px solid white;
+    height: 220px;
+}
+
+nav h1:hover{
+    font-size: 5rem;
+    transition: 0.4ms;
+}
+
+section{
+    color: black;
+    font-family: 'Pacifico', cursive;
+    margin: 3rem;
+}
+
+.About{
+    background-color: #FF0000;
+    font-size: 2rem;
+    color: white;
+    margin: 0rem;
+    padding: 4rem;
+}
+
+.Text{
+    color: white;
+}
+
+p{
+    font-weight: lighter;
+    color: #FF0000;
+}
+
+img{
+    border: 2px solid black;
+}
+
+
